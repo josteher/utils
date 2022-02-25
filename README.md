@@ -1,6 +1,6 @@
 # utils
 
-### Some useful funciton for the single cell analysis package 'RaceID'
+### Useful functions for the single cell analysis package 'RaceID'
 
 
 **Multi_plotexp.R:** Plot multiple gene expression umaps
