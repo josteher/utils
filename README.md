@@ -4,6 +4,7 @@
 
 
 - **Multi_plotexp.R:** Plot multiple gene expression umaps
+![alt text](./Multi_plotexp_example.jpg)
 
 - **fraction_dotplot:** Plot a dotplot of average gene expression per cluster for selected genes. 
 
